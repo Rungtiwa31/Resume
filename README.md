@@ -1,4 +1,5 @@
 # Resume
+รวมผลงานที่เคยทำเกี่ยวกับ UX/UI
 ## ผลงาน UX/UI
 - [PHOTO PLACE](https://www.figma.com/proto/7Uo0R028sWsHF6nn9XEg79/PHOTO-PLACE?node-id=2334-1033&p=f&t=NubnUaHx8FMKJk4k-1&scaling=scale-down&content-scaling=fixed&page-id=0:1&starting-point-node-id=2311:2) 
 ผลงานชิ้นนี้เป็นผลงานชิ้นแรกที่ได้ลองทำ อาจารย์สั่งให้ออกแบบแอปพลิเคชั่นอะไรก็ได้ที่สนใจจะทำ เลยทำเป็นแอปค้นหาสถานที่ถ่ายรูป สถานที่ท่องเที่ยวที่น่าสนใจ
