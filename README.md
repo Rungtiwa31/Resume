@@ -13,6 +13,5 @@
 ผลงานชิ้นนี้อาจารย์ให้ออกแบบแอปพลิเคชันสำหรับการท่องเที่ยวเชิงอนุรักษ์เพื่อสนับสนุนวัฒนธรรมในท้องถิ่น
 - [POS](https://www.figma.com/proto/WQUGZWT2BHUlc0SCCxj7XU/POS?node-id=106-627&p=f&t=dBr9IHIVFxsqKrIG-1&scaling=scale-down&content-scaling=fixed&page-id=0:1&starting-point-node-id=106:627)
 ผลงานชิ้นนี้อาจารย์ให้ออกแบบ POS สำหรับร้านคาเฟ่
-
-[Temptation](https://www.figma.com/proto/VubSN37DGypLRwK49v57Yc/Temptation?node-id=247-2&p=f&t=hSzTedlSX31PUutR-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=247%3A2)
+- [Temptation](https://www.figma.com/proto/VubSN37DGypLRwK49v57Yc/Temptation?node-id=247-2&p=f&t=hSzTedlSX31PUutR-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=247%3A2)
 ผลงานชิ้นนี้กำลังพัฒนาอยู่เป็นเว็บไซต์ให้เช่าจองรถจองร้านนึงที่เป็น กรณีศึกษาค่ะ
